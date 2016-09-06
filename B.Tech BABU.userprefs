@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BallControlls.js">
+    <Files>
+      <File FileName="Assets\PlayerJump.cs" Line="23" Column="2" />
+      <File FileName="Assets\SwipeTest.cs" Line="14" Column="15" />
+      <File FileName="Assets\Scripts\BallControlls.js" Line="19" Column="41" />
+      <File FileName="Assets\BallControlTouch.js" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
